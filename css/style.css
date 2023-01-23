@@ -2,6 +2,7 @@
     --white: #fafafa;
     --black: #000;
     --gray:  #A9A9A9;
+    --orange: #FF6D5B;
     --primary-font: 'PT Serif', serif;
     --secondary-font: 'Poppins', sans-serif;
     --footer-font: 'Montserrat', sans-serif;
@@ -101,6 +102,7 @@ body{
     text-transform: uppercase;
 }
 
+
 .name{
     font-family: var(--secondary-font);
     font-weight: 600;
@@ -131,7 +133,7 @@ body{
 }
 
 .strong:hover{
-    color: var(--black);
+    color: var(--orange);
 }
 
 @media screen and (max-width: 900px){
