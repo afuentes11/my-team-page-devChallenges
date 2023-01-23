@@ -37,11 +37,9 @@
 ## Overview
 
 <div align="center">
-   <img src="https://github.com/afuentes11/my-team-page-devChallenges/blob/master/img/web%20design.png" alt="css3" width="65%" "/>
-   <img src="https://github.com/afuentes11/my-team-page-devChallenges/blob/master/img/mobile%20design.png" alt="css3" width="30%" />
+   <img src="https://github.com/afuentes11/my-team-page-devChallenges/blob/master/img/web%20design.png" alt="css3" width="65%" />
+   <img src="https://github.com/afuentes11/my-team-page-devChallenges/blob/master/img/mobile%20design.png" alt="css3" height="641.34px" />
 </div>
-
-
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
