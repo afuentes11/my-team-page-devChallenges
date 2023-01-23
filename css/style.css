@@ -169,7 +169,7 @@ body{
 
     .card{
         width: 47%;
-        padding-top: 0;
+        padding-top: 1rem;
     }
 
     .card:nth-child(3n+2){
