@@ -30,7 +30,6 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -41,12 +40,11 @@
    <img src="https://github.com/afuentes11/my-team-page-devChallenges/blob/master/img/mobile%20design.png" alt="css3" height="641.34px" />
 </div>
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+The project consists of the creation of a page for the presentation of a software development team. [The original design](https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4?chrome=DOCUMENTATION&embed_host=astra&kind=&node-id=0%3A1&viewer=1) was provided by Devchallenges in the challenge.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+The page can be viewed at the following [link](https://afuentes11.github.io/my-team-page-devChallenges/). If you liked the project, give me a star ⭐.
+
+The key points for the development of the layout were the use of flexbox for the organisation of the images and the responsive design, and the use of the property "writing-mode: vertical-rl", which allows the letters to be placed vertically on the page.
 
 ### Built With
 
